@@ -10,6 +10,7 @@ Es ist ein Endless Runner, wobei Hindernisse am unteren Rand des Bildschirms auf
 |Space|Jump|
 
 ## Schwierigkeitsstufen
+Es gibt 3 Unterschiedliche Modi, die wegen der Häufigkeit und Geschwindigkeit der Hindernisse unterschiedlich schwierig sind
 
 ## Multiplayer
 Außerdem habe ich ein Multiplayer Modus implementiert, bei dem ein zweiter Spieler mit den Pfeiltasten gesteuert werden kann. 
