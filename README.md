@@ -6,6 +6,7 @@ Es ist ein Endless Runner, wobei Hindernisse am unteren Rand des Bildschirms auf
 |A|left|
 |----------|----------|
 |   D|right|
+|----------|----------|
 |Space|Jump|
 
 ## Schwierigkeitsstufen
