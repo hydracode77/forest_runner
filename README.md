@@ -5,7 +5,7 @@ Es ist ein Endless Runner, wobei Hindernisse am unteren Rand des Bildschirms auf
 ## Game Controls
 |A|left|
 |----------|----------|
-|D|right|
+|   D|right|
 |Space|Jump|
 
 ## Schwierigkeitsstufen
